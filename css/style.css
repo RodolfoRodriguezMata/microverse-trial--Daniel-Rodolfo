@@ -1,0 +1,33 @@
+.img-query {
+  display: none;
+}
+@media only screen and (max-width: 600px) {
+  .img-query {
+    display: inline;
+  }
+}
+
+#header img {
+  max-height: 40vh;
+  display: flex;
+}
+
+#header{
+  height: 100vh;
+}
+
+.mission {
+  height: 100vh;
+}
+
+#welcome-section {
+  height: 100vh;
+}
+
+#about-us {
+  height: 100vh;
+}
+
+#vission {
+  height: 100vh;
+}
