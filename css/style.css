@@ -1,0 +1,19 @@
+@media only screen and (max-width: 1200px) {
+    #navbar {
+        position: fixed;
+        top: 0;
+        left: 0;
+
+    }
+}
+#navbar {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+#main-doc {
+    display: inline-block;
+    align-self: center;
+
+}
